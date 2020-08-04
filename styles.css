@@ -1,0 +1,51 @@
+html {
+    background: darkslategray;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #b27144;
+    padding: 10px;
+}
+
+h1 {
+    color: #ffe9d8;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+article, header, footer, aside {
+    border: 2px solid #817d54;
+    border-radius: 5px;
+    background-color: #ebead5;
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+
+}
+
+article#jewelry {
+
+}
+
+article#clocks {
+
+}
+
+article#clothes {
+
+}
+
+article#furniture {
+
+}
+
+footer {
+
+}
